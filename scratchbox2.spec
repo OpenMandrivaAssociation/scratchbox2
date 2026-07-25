@@ -1,7 +1,7 @@
 %define git 20120925
 %define version	2.0
 %define rel 0
-%define release %mkrel 0.git%{git}.%{rel}
+%define release 0.git%{git}.%{rel}.1
 
 #% define major		1
 #% define libname	% mklibname % name % major
